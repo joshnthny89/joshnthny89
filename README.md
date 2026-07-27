@@ -3,7 +3,8 @@
 # Hey, I'm Joshua Anthony
 ## Different Uniform, Same Mission. Protecting People, Systems, and Data.
 
-I bring real-world incident response, evidence handling, and composure under pressure into a technical toolkit built through 15 completed Coursera courses (Google IT Support + Google Cybersecurity), hands-on labs, and ongoing CompTIA Security+ study.
+Before transitioning into IT and cybersecurity, I worked as a police officer and spent several years in public safety. That experience taught me how to assess incidents, investigate problems, document findings, protect confidential information, and remain composed under pressure.
+I’m now building on that foundation through the Google IT Support and Google Cybersecurity Professional Certificates, hands-on technical labs, and ongoing CompTIA Security+ study. This portfolio documents my work with Linux, Zendesk, Bash automation, log analysis, and Splunk Cloud.
 
 # 🎯 Career Focus
 I'm building toward roles such as:
