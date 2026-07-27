@@ -197,69 +197,69 @@ ticket lifecycle from creation through resolution.
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Zendesk-Labs/Lab-01-Navigating-the-Zendesk-Interface/">
-📁 <strong>Lab 01</strong>
-</a>
-</td>
-<td>
-<strong>Navigating the Zendesk Interface</strong> — Zendesk workspace navigation, ticket views, agent tools, and understanding the support environment.
-</td>
+  <td width="20%" align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Zendesk-Labs/Lab-01-Navigating-the-Zendesk-Interface">
+      <strong>📁 Lab 01</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Navigating the Zendesk Interface</strong> – Zendesk workspace navigation, ticket views, agent tools, and understanding the support environment.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Zendesk-Labs/Lab-02-Creating-a-Zendesk-Macro/">
-📁 <strong>Lab 02</strong>
-</a>
-</td>
-<td>
-<strong>Creating a Zendesk Macro</strong> — Creating reusable response templates, using dynamic placeholders, and improving support response efficiency through automation.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Zendesk-Labs/Lab-02-Creating-a-Zendesk-Macro">
+      <strong>📁 Lab 02</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Creating a Zendesk Macro</strong> – Creating reusable response templates, using dynamic placeholders, and improving support response efficiency through automation.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Zendesk-Labs/Lab-03-Responding-to-a-Support-Ticket/">
-📁 <strong>Lab 03</strong>
-</a>
-</td>
-<td>
-<strong>Responding to a Support Ticket</strong> — Managing customer requests, applying macros, documenting responses, and following support communication best practices.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Zendesk-Labs/Lab-03-Responding-to-a-Support-Ticket">
+      <strong>📁 Lab 03</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Responding to a Support Ticket</strong> – Managing customer requests, applying macros, documenting responses, and following support communication best practices.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Zendesk-Labs/Lab-04-Ticket-Prioritization/">
-📁 <strong>Lab 04</strong>
-</a>
-</td>
-<td>
-<strong>Ticket Prioritization</strong> — Ticket severity assessment, urgency evaluation, impact analysis, and prioritization workflows.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Zendesk-Labs/Lab-04-Ticket-Prioritization">
+      <strong>📁 Lab 04</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Ticket Prioritization</strong> – Ticket severity assessment, urgency evaluation, impact analysis, and prioritization workflows.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Zendesk-Labs/Lab-05-Views-&-Filters/">
-📁 <strong>Lab 05</strong>
-</a>
-</td>
-<td>
-<strong>Views & Filters</strong> — Creating custom ticket views, filtering support queues, and improving workflow organization.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Zendesk-Labs/Lab-05-Views-&-Filters">
+      <strong>📁 Lab 05</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Views &amp; Filters</strong> – Creating custom ticket views, filtering support queues, and improving workflow organization.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Zendesk-Labs/Lab-06-Ticket-Lifecycle/">
-📁 <strong>Lab 06</strong>
-</a>
-</td>
-<td>
-<strong>Ticket Lifecycle</strong> — Following tickets from creation through assignment, escalation, resolution, and closure.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Zendesk-Labs/Lab-06-Ticket-Lifecycle">
+      <strong>📁 Lab 06</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Ticket Lifecycle</strong> – Following tickets from creation through assignment, escalation, resolution, and closure.
+  </td>
 </tr>
 
 </table>
