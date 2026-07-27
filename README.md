@@ -265,7 +265,9 @@ ticket lifecycle from creation through resolution.
 
 </table>
 
+# 🚧 UNDER CONSTRUCTION 🚧
 
+## Note: Splunk Labs will be upoaded shortly
 <h2>🔎 Splunk Cloud Labs</h2>
 
 <hr>
