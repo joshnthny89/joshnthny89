@@ -68,113 +68,112 @@ process analysis, networking, log investigation, incident response, and automati
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-01-File-System/">
-📁 <strong>Lab 01</strong>
-</a>
-</td>
-<td>
-<strong>File Systems</strong> — Navigation, directory structure, filesystem organization, and command-line fundamentals.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-01-File-System">
+    📁 <strong>Lab 01</strong>
+    </a>
+  </td>
+  <td>
+    <strong>File Systems</strong> – Navigation, directory structure, filesystem organization, and command-line fundamentals.
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-02-File-Management">
+  🔒 <strong>Lab 02</strong>
+    </a>
+  </td>
+  <td>
+    <strong>File Management</strong> – Create, copy, move, rename, and delete files and directories using Linux command-line tools.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-02-File-Management/">
-📁 <strong>Lab 02</strong>
-</a>
-</td>
-<td>
-<strong>File Management</strong> — File creation, directories, copying, moving, deleting, and managing files through the terminal.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-03-Permissions">
+   👥 <strong>Lab 03</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Permissions</strong> – View and modify file permissions, ownership, and access controls using <code>chmod</code> and <code>chown</code>.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-03-Permissions/">
-🔒 <strong>Lab 03</strong>
-</a>
-</td>
-<td>
-<strong>Permissions</strong> — Linux permissions, <code>chmod</code>, access control, and least privilege principles.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-04-Users-Groups">
+  ⚙️ <strong>Lab 04</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Users &amp; Groups</strong> – Manage user accounts, groups, and privilege assignments while applying the principle of least privilege.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-04-Users-Groups/">
-👥 <strong>Lab 04</strong>
-</a>
-</td>
-<td>
-<strong>Users & Groups</strong> — IAM concepts, user enumeration, account management, groups, and <code>sudo</code> administration.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-05-Process-Investigation">
+  🖥️ <strong>Lab 05</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Process Investigation</strong> – Monitor running processes, identify resource usage, and investigate suspicious or unnecessary processes.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-05-Process-Investigation/">
-⚙️ <strong>Lab 05</strong>
-</a>
-</td>
-<td>
-<strong>Process Investigation</strong> — Process analysis using <code>ps</code>, <code>top</code>, <code>grep</code>, and system activity investigation.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-06-Network-Investigation">
+     🌐 <strong>Lab 06</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Network Investigation</strong> – Examine active network connections, identify listening services, and troubleshoot network activity.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-06-Network-Investigation/">
-🌐 <strong>Lab 06</strong>
-</a>
-</td>
-<td>
-<strong>Network Investigation</strong> — Network troubleshooting using <code>ifconfig</code>, <code>netstat</code>, <code>ping</code>, <code>nslookup</code>, and <code>traceroute</code>.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-07-Log-Analysis">
+    📜 <strong>Lab 07</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Log Analysis</strong> – Analyze system log files to identify events, troubleshoot issues, and support security investigations.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-07-Log-Analysis/">
-📜 <strong>Lab 07</strong>
-</a>
-</td>
-<td>
-<strong>Log Analysis</strong> — Reviewing system logs, navigating log files, using <code>head</code>, <code>tail</code>, <code>less</code>, and identifying relevant events.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-08-Log-Searching">
+    🔎 <strong>Lab 08</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Log Searching</strong> – Use tools such as <code>grep</code> and filtering techniques to efficiently locate relevant log entries.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-08-Log-Searching/">
-🔎 <strong>Lab 08</strong>
-</a>
-</td>
-<td>
-<strong>Log Searching</strong> — Searching logs with <code>grep</code>, pattern matching, filtering, and event investigation.
-</td>
+  <td align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-09-Incident-Response">
+    🚨 <strong>Lab 09</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Incident Response</strong> – Investigate simulated security incidents, collect evidence, and document findings following incident response procedures.
+  </td>
 </tr>
 
 <tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-09-Incident-Response/">
-🚨 <strong>Lab 09</strong>
-</a>
-</td>
-<td>
-<strong>Incident Response</strong> — Evidence collection, process review, network analysis, and incident triage workflows.
-</td>
-</tr>
-
-<tr>
-<td width="20%" align="center">
-<a href="./Linux-Labs/Lab-10-Basic-Automation/">
-🤖 <strong>Lab 10</strong>
-</a>
-</td>
-<td>
-<strong>Bash Automation</strong> — Bash scripting, variables, loops, automation concepts, and reducing repetitive tasks.
-</td>
+  <td width="20%" align="center">
+    <a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Linux-Labs/Lab-10-Basic-Automation">
+    🤖 <strong>Lab 10</strong>
+    </a>
+  </td>
+  <td>
+    <strong>Basic Automation</strong> – Automate repetitive administrative tasks using Bash scripts and basic shell programming techniques.
+  </td>
 </tr>
 
 </table>
