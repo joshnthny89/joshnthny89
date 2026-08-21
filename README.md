@@ -275,9 +275,6 @@ and security investigations. These labs demonstrate foundational SOC analyst wor
 using Splunk Cloud for monitoring, investigating, and interpreting security-related data.
 </p>
 
-
-# 🚧 UNDER CONSTRUCTION 🚧
-
 ## Note: Splunk Labs will be upoaded shortly
 <table>
 <tr>
