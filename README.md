@@ -287,7 +287,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-01-Splunk-Cloud-Introduction/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-01-Splunk-Cloud-Introduction/">
 📁 <strong>Lab 01</strong>
 </a>
 </td>
@@ -298,7 +298,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-02-Searching-&-Filtering-Data/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-02-Searching-&-Filtering-Data/">
 🔎 <strong>Lab 02</strong>
 </a>
 </td>
@@ -309,7 +309,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-03-Working-with-Fields/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-03-Working-with-Fields/">
 🏷️ <strong>Lab 03</strong>
 </a>
 </td>
@@ -320,7 +320,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-04-SPL-Fundamentals/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-04-SPL-Fundamentals/">
 💻 <strong>Lab 04</strong>
 </a>
 </td>
@@ -331,7 +331,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-05-Statistical-Commands/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-05-Statistical-Commands/">
 📊 <strong>Lab 05</strong>
 </a>
 </td>
@@ -342,7 +342,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-06-Dashboards-&-Visualizations/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-06-Dashboards-&-Visualizations/">
 📈 <strong>Lab 06</strong>
 </a>
 </td>
@@ -353,7 +353,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-07-Alerts-&-Reports/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-07-Alerts-&-Reports/">
 🚨 <strong>Lab 07</strong>
 </a>
 </td>
@@ -364,7 +364,7 @@ using Splunk Cloud for monitoring, investigating, and interpreting security-rela
 
 <tr>
 <td width="20%" align="center">
-<a href="./Splunk-Cloud-Labs/Lab-08-Security-Investigation/">
+<a href="https://github.com/Joshnthny89/IT-Portfolio/tree/main/Splunk-Cloud-Labs/Lab-08-Security-Investigation/">
 🛡️ <strong>Lab 08</strong>
 </a>
 </td>
